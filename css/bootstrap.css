@@ -4273,8 +4273,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 90px;
-  padding: 20px 60px;
+  height: 60px;
+  padding: 10px 10px 0px 60px;
   font-size: 18px;
   line-height: 20px;
 }
@@ -4326,7 +4326,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
-  line-height: 60px;
+  line-height: 30px;
   font-weight: 500
 }
 @media (max-width: 767px) {
