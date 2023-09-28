@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as d,Q as e}from"./chunks/framework.879a0371.js";const y=JSON.parse('{"title":"几何","description":"","frontmatter":{},"headers":[],"relativePath":"script/几何.md","filePath":"script/几何.md"}'),s={name:"script/几何.md"},r=e("",169),l=[r];function o(n,p,h,i,c,b){return a(),d("div",null,l)}const x=t(s,[["render",o]]);export{y as __pageData,x as default};

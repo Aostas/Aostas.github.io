@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as o}from"./chunks/framework.879a0371.js";const C=JSON.parse('{"title":"配方","description":"","frontmatter":{},"headers":[],"relativePath":"script/配方.md","filePath":"script/配方.md"}'),p={name:"script/配方.md"},l=o("",18),t=[l];function e(c,r,E,y,i,u){return n(),a("div",null,t)}const F=s(p,[["render",e]]);export{C as __pageData,F as default};
