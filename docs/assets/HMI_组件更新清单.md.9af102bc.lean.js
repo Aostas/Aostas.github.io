@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as r,Q as e}from"./chunks/framework.6ed370c1.js";const f=JSON.parse('{"title":"组件清单：","description":"","frontmatter":{},"headers":[],"relativePath":"HMI/组件更新清单.md","filePath":"HMI/组件更新清单.md"}'),a={name:"HMI/组件更新清单.md"},_=e("",2),o=[_];function s(c,n,h,i,l,p){return d(),r("div",null,o)}const u=t(a,[["render",s]]);export{f as __pageData,u as default};
